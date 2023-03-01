@@ -28335,7 +28335,7 @@ msgid ""
 "from its master, but not vice versa. A private mount carries no propagation "
 "abilities. An unbindable mount is a private mount which cannot be cloned "
 "through a bind operation. The detailed semantics are documented in "
-"_Documentation/filesystems/sharedsubtree.txt_ file in the kernel source "
+"_Documentation/filesystems/sharedsubtree.rst_ file in the kernel source "
 "tree; see also *mount_namespaces*(7)."
 msgstr ""
 
@@ -30339,7 +30339,7 @@ msgstr ""
 #: ../sys-utils/mount.8.adoc:735
 msgid ""
 "To use this option effectively, _/dev/ptmx_ must be a symbolic link to _pts/"
-"ptmx_. See _Documentation/filesystems/devpts.txt_ in the Linux kernel source "
+"ptmx_. See _Documentation/filesystems/devpts.rst_ in the Linux kernel source "
 "tree for details."
 msgstr ""
 
@@ -36126,7 +36126,7 @@ msgid ""
 "set will still work, but they will not gain privileges. Certain LSMs, "
 "especially AppArmor, may result in failures to execute certain programs.) "
 "This bit is inherited by child processes and cannot be unset. See *prctl*(2) "
-"and _Documentation/prctl/no_new_privs.txt_ in the Linux kernel source."
+"and _Documentation/userspace-api/no_new_privs.rst_ in the Linux kernel source."
 msgstr ""
 
 #. type: Plain text

@@ -104,7 +104,7 @@ Display version information and exit.
 
 The _device_ is usually _/dev/sda_, _/dev/sdb_ or so. A device name refers to the entire disk. Old systems without libata (a library used inside the Linux kernel to support ATA host controllers and devices) make a difference between IDE and SCSI disks. In such cases the device name will be _/dev/hd*_ (IDE) or _/dev/sd*_ (SCSI).
 
-The _partition_ is a device name followed by a partition number. For example, _/dev/sda1_ is the first partition on the first hard disk in the system. See also Linux kernel documentation (the _Documentation/admin-guide/devices.txt_ file).
+The _partition_ is a device name followed by a partition number. For example, _/dev/sda1_ is the first partition on the first hard disk in the system. See also Linux kernel documentation (the _Documentation/admin-guide/devices.rst_ file).
 
 == SIZES
 
