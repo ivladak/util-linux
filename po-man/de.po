@@ -2375,7 +2375,7 @@ msgstr ""
 "Die _Partition_ besteht aus einem Gerätenamen und einer folgenden "
 "Partitionsnummer. Beispielsweise ist _/dev/sda1_ die erste Partition auf der "
 "ersten Festplatte des Systems (siehe auch in der Dokumentation des Linux-"
-"Kernels die Datei Documentation/admin-guide/devices.txt)."
+"Kernels die Datei Documentation/admin-guide/devices.rst)."
 
 #. type: Title ==
 #: ../disk-utils/fdisk.8.adoc:109
