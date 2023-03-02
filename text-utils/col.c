@@ -50,7 +50,7 @@
  * only.  Do not waste time making this command better, unless the
  * fix is about security or other very critical issue.
  *
- * See Documentation/deprecated.txt for more information.
+ * See Documentation/process/deprecated.rst for more information.
  */
 
 #include <ctype.h>
